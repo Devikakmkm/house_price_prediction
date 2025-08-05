@@ -65,6 +65,9 @@ A machine learning-based web application that predicts house prices in Bangalore
 2. **Open the frontend**
    - Navigate to the `client` folder
    - Open `app.html` in your web browser
+  
+   <img width="1862" height="915" alt="image" src="https://github.com/user-attachments/assets/061d830f-d059-420b-99a4-6e827ce52768" />
+
 
 ## Usage
 
